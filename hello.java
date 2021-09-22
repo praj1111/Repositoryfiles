@@ -1,6 +1,6 @@
-public class Hello
+public class hello
 {
   public static void main(string[]args)
 
-	  system.out.println("modified file");//moidified
+	  System.out.println("modified file");//moidified
 }
